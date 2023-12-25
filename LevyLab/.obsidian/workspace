@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "68f4663da7516381",
+    "type": "split",
+    "children": [
+      {
+        "id": "39af186b3a74aa11",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instruments/Cypher.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b221b2b52dbf131",
+    "type": "split",
+    "children": [
+      {
+        "id": "05dfedb3f6ffda14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc4a9d492f23be3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b5299734ba6257b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "640151ea7e06778c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94cd426ea4753891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b199c2d117e238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instruments/Cypher.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "39af186b3a74aa11",
+  "lastOpenFiles": [
+    "Optics/Depth of Focus vs. Depth of Field.md",
+    "Instruments/Wire bonder.md",
+    "Instruments/Cypher.md",
+    "Instruments/Instrument Framework.md",
+    "Lock-In.md",
+    "LV shortcuts.md",
+    "Instruments/E2.md",
+    "resources/wirebonder.png",
+    "wirebonder.png"
+  ]
+}
